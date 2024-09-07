@@ -37,3 +37,8 @@ Se você é um desenvolvedor e quer contribuir para esse projeto, fique à vonta
 **Agradecimentos:**
 
 Este é um projeto feito pela Imersão Dev da Alura com a utilização da tecnologia Gemini. Agradeço aos ensimanetos dos instrutores: Rafaella Ballerini, Guilherme Lima e Luciano Martins.
+
+
+**Acesso ao Site:**
+
+rpgs-brasileiros.vercel.app
